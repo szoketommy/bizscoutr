@@ -1,0 +1,12 @@
+{
+  "name": "bizscoutr",
+  "main": "dist/index.js",
+  "compatibility_date": "2025-01-29",
+  "assets": {
+    "directory": "dist/public",
+    "binding": "ASSETS"
+  },
+  "observability": {
+    "enabled": true
+  }
+}
